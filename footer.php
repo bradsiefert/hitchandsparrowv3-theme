@@ -116,7 +116,7 @@ $(window).load(function() {
 });
 </script>
 
-<script>
+<!-- <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -124,6 +124,6 @@ $(window).load(function() {
 
   ga('create', 'UA-29479671-1', 'hitchandsparrow.com');
   ga('send', 'pageview');
-</script>
+</script> -->
 </body>
 </html>
