@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>social-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Engagements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="02-Engagements-Page,-Desktop" sketch:type="MSArtboardGroup" transform="translate(-187.000000, -1218.000000)">
+            <g id="Footer" sketch:type="MSLayerGroup" transform="translate(0.000000, 1164.000000)">
+                <g id="Social-Icons" transform="translate(130.000000, 55.000000)" sketch:type="MSShapeGroup">
+                    <g id="social-facebook" transform="translate(58.000000, 0.000000)">
+                        <circle id="Social" stroke="#444444" stroke-width="1.5" fill="#FFFFFF" cx="24" cy="24" r="24"></circle>
+                        <path d="M28.3934787,20.3144122 L26.0652128,20.3144122 L26.0652128,17.9437728 C26.3235232,15.7032191 29.9864493,16.1285649 29.9864493,16.1285649 L29.9872962,15.9753719 L29.9864493,12.2773457 C29.8568706,12.2465359 22.6961677,10.5288922 21.2741901,16.0361356 C21.0395935,16.7652998 21.054838,19.9181645 21.0573788,20.3144122 L18,20.3144122 L18,24.5310693 L21.2470887,24.5310693 L21.2470887,36 L25.9754393,36 L25.9754393,24.5310693 L29.5926318,24.5310693 L30,20.3144122 L29.5934787,20.3144122" id="Fill-16" fill="#444444"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
