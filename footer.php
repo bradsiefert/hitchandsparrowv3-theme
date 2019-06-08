@@ -44,24 +44,24 @@
         <ul class="list-inline site-map">
           <li><a href="/">Home</a></li>
           <li class="dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown" href="portfolio">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="/portfolio">
               Portfolio <span class="caret"></span>
             </a>
             <ul class="dropdown-menu">
-              <li><a href="portfolio/getting-ready">Getting Ready</a></li>
-              <li><a href="portfolio/editorial">Editorial</a></li>
-              <li><a href="portfolio/documentary">Documentary</a></li>
-              <li><a href="portfolio/details">Details</a></li>
-              <li><a href="portfolio/fun">Fun</a></li>
-              <li><a href="portfolio/ceremony">Ceremony</a></li>
-              <li><a href="portfolio/engagements">Engagements</a></li>
-              <li><a href="portfolio/favorites">All Time Favorites</a></li>
+              <li><a href="/portfolio/getting-ready">Getting Ready</a></li>
+              <li><a href="/portfolio/editorial">Editorial</a></li>
+              <li><a href="/portfolio/documentary">Documentary</a></li>
+              <li><a href="/portfolio/details">Details</a></li>
+              <li><a href="/portfolio/fun">Fun</a></li>
+              <li><a href="/portfolio/ceremony">Ceremony</a></li>
+              <li><a href="/portfolio/engagements">Engagements</a></li>
+              <li><a href="/portfolio/favorites">All Time Favorites</a></li>
             </ul>                    
           </li>
-          <li><a href="blog">Blog</a></li>
-          <li><a href="about-us">About H&amp;S</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/about-us">About H&amp;S</a></li>
         </ul>
-        <a href="http://hitchandsparrow.com/book-us" class="btn btn-primary outline mt10">Book H&S</a>
+        <a href="/book-us" class="btn btn-primary outline mt10">Book H&S</a>
       </div>
     </div>
   </div>
