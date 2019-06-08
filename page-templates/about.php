@@ -18,9 +18,8 @@
   </div>
 </div>
 
-<div class="container-fluid main-content">
+<div class="main-content">
   <div class="container">
-    
     <div class="row">
       <div class="col-sm-12">
         <h2>Who We Are</h2>

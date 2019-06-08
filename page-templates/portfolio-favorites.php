@@ -6,7 +6,7 @@
     <div class="row">
       <div class="col-md-offset-3 col-md-6 col-sm-offset-1 col-sm-10">
         <div class="top-preamble">
-          <h1>Portfolio</h1>
+          <h1>Portfolio Favorites</h1>
           <p>
             Enjoy some of our favorite moments and details from over the years. From Mountain resorts to the frozen 
             beauty of Toronto. From the charm and sprawl of Chicago to the vibrant culture of Nicaragua. We're thrilled 
