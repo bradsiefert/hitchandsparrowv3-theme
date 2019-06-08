@@ -126,7 +126,7 @@ html[xmlns] .flexslider .slides {
   /*left: -50px;*/
   height: 38px;
   width: 38px;
-  background-image: url('../images/icon-arrow-prev.svg'); 
+  background-image: url('<?= get_theme_file_uri("../images/icon-arrow-prev.svg") ?>'); 
   font-size: 0px; 
 }
 .flex-direction-nav .flex-next {
@@ -134,7 +134,7 @@ html[xmlns] .flexslider .slides {
   text-align: right;
   height: 38px;
   width: 38px;
-  background-image: url('../images/icon-arrow-next.svg'); 
+  background-image: url('<?= get_theme_file_uri("../images/icon-arrow-next.svg") ?>'); 
   font-size: 0px;
 }
 
