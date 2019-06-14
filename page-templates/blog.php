@@ -3,11 +3,11 @@
 
 <div class="blog-contain">
   <h1 class="hidden">Blog</h1>
-  
+
   <?php
     $wp_query->query('posts_per_page=7&order=DESC'.'&paged='.$paged);
     while ($wp_query->have_posts()) :
-    $wp_query->the_post(); 
+    $wp_query->the_post();
   ?>
     <div class="blog-featured">
       <div class="blog-featured-details">
