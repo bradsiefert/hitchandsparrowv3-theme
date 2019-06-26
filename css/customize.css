@@ -740,7 +740,7 @@ input[type=checkbox]:checked + label {
   background: #FFFFFF;
   border: 1px solid #D5D5D5;
   border-right: none;
-  width: 460px;
+  width: 480px;
   text-align: left;
   padding: 30px;
   min-height: 520px;
