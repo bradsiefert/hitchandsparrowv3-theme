@@ -534,18 +534,18 @@ strong {
 .form-control {
   font-family: Didot;
   font-size: 15px;
-  color: #D9BD21;
+  color: #444;
   letter-spacing: 0.69px;
   line-height: 20px;
   background: #FFFFFF;
-  border: 1px solid #D9BD21;
+  border: 1px solid #ccc;
   box-shadow: 0 0 0;
   height: 50px;
   padding-left: 20px;
 }
 
 .form-control::-webkit-input-placeholder {
-  color: #D9BD21;
+  color: #444;
   letter-spacing: 0.6px;
 }
 
@@ -577,50 +577,18 @@ select.form-control {
   padding-left: 20px;
 }
 
-.checkbox-inline {
-  padding-left: 0;
+.form-checkbox-label .wpcf7-list-item {
+  margin-right: 15px;
 }
 
-@media (max-width: 768px) {
-  .checkbox-inline {
-    display: block;
-    margin-left: 0;
-  }
-  
-  .radio-inline + .radio-inline,
-  .checkbox-inline + .checkbox-inline {
-    margin-left: 0px;
-  }
+.form-group label .wpcf7-list-item-label,
+.form-group label input {
+  font-size: 14px;
+  font-weight: bold;
 }
 
-input[type=checkbox] {
+.wpcf7 .screen-reader-response {
   display: none;
-}
-
-input[type=checkbox] + label {
-  background: url("../images/icon-checkbox-empty.svg") no-repeat;
-  height: 24px;
-  width: 24px;
-  margin-bottom: 0;
-}
-
-input[type=checkbox]:checked + label {
-  background: url("../images/icon-checkbox-checked.svg") no-repeat;
-  height: 24px;
-  width: 24px;
-  margin-bottom: 0;
-}
-
-.form-checkbox-label {
-  display: inline-block;
-  position: relative;
-  top: -8px;
-  left: 2px;
-  font-family: 'Gotham-Book';
-  font-size: 13px;
-  color: #D9BD21;
-  letter-spacing: 0.86px;
-  line-height: 15px;
 }
 
 /* ---------- Portfolio pages --------- */
