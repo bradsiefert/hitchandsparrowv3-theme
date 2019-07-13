@@ -591,6 +591,20 @@ select.form-control {
   display: none;
 }
 
+.wpcf7-response-output {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 32px;
+  padding: 8px;
+  text-align: center;
+  background-color: #D9BD21;
+  border: 1px #D9BD21 solid;
+}
+
+.wpcf7-response-output.wpcf7-display-none {
+  display: none;
+}
+
 /* ---------- Portfolio pages --------- */
 
 .center-pills {
@@ -1005,7 +1019,6 @@ p.blog-text {
   border-radius: 0;
   letter-spacing: 0.4px;
 }
-
 
 /* ---------- Landing Page --------- */
 
