@@ -27,7 +27,7 @@ album, engagement photos, marriage, pictures, premium wedding photography" />
 
 <link href="<?= get_theme_file_uri("css/fontfaces.min.css") ?>" rel="stylesheet" type="text/css" media="screen" />
 <link href="<?= get_theme_file_uri("css/bootstrap.min.css") ?>" rel="stylesheet" type="text/css" media="screen" />
-<link href="<?= get_theme_file_uri("css/customize.min.css") ?>" rel="stylesheet" type="text/css" media="screen" />
+<link href="<?= get_theme_file_uri("css/customize.css") ?>" rel="stylesheet" type="text/css" media="screen" />
 
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
