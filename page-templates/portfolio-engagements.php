@@ -43,34 +43,34 @@
           <div class="slider">
             <div class="flexslider">
               <ul class="slides">
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements01.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements02.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements03.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements04.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements05.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements06.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements07.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements08.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements09.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements10.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements11.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements12.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements13.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements14.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements15.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements16.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements17.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements18.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements19.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements20.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements21.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements22.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements23.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements24.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements25.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements26.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements27.jpg") ?>" alt="Photos from our engagement shoots"></li>
-                <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements28.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements01.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements02.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements03.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements04.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements05.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements06.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements07.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements08.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements09.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements10.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements11.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements12.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements13.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements14.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements15.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements16.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements17.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements18.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements19.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements20.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements21.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements22.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements23.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements24.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements25.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements26.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements27.jpg") ?>" alt="Photos from our engagement shoots"></li>
+                <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements28.jpg") ?>" alt="Photos from our engagement shoots"></li>
               </ul>
             </div>
           </div>
@@ -78,34 +78,34 @@
         
         <div class="slider-mobile mb30">
           <ul class="list-unstyled">
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements01.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements02.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements03.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements04.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements05.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements06.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements07.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements08.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements09.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements10.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements11.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements12.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements13.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements14.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements15.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements16.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements17.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements18.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements19.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements20.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements21.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements22.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements23.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements24.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements25.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements26.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements27.jpg") ?>" alt="Photos from our engagement shoots"></li>
-            <li><img data-no-retina src="<?= get_theme_file_uri("media/portfolio/engagements28.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements01.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements02.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements03.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements04.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements05.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements06.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements07.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements08.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements09.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements10.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements11.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements12.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements13.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements14.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements15.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements16.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements17.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements18.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements19.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements20.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements21.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements22.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements23.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements24.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements25.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements26.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements27.jpg") ?>" alt="Photos from our engagement shoots"></li>
+            <li><img data-no-retina src="<?= get_theme_file_uri("portfolio/engagements28.jpg") ?>" alt="Photos from our engagement shoots"></li>
           </ul>
         </div>
         
