@@ -5,7 +5,7 @@
   <h1 class="hidden">Blog</h1>
 
   <?php
-    $wp_query->query('posts_per_page=7&order=DESC'.'&paged='.$paged);
+    $wp_query->query('posts_per_page=7&order=DESC&paged='.$paged);
     while ($wp_query->have_posts()) :
     $wp_query->the_post();
   ?>
@@ -21,15 +21,16 @@
           <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
         </div>
         <div class="blog-date-location">
-          Posted on: Jun 05, 2019
+          Posted on: <?php the_time('F d, Y') ?>
+          <!-- Posted on: Jun 05, 2019 -->
         </div>
-        
+
         <a href="<?php the_permalink(); ?>" class="btn btn-primary btn-sm">View Post</a>
       </div>
     </div>
   <?php endwhile; ?>
 
-  <?php if ($paged > 1) { ?>
+  <?php if ($wp_query->max_num_pages == $paged) { ?>
     <div class="archive-tile">
       <p>No more blog posts to show.</p>
       <ul class="pagination">
