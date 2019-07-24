@@ -7,8 +7,8 @@
         <div class="top-preamble">
           <h1>About Us</h1>
           <p>
-            Hitch & Sparrow is a wedding photography company based in <strong>Denver, CO</strong> & 
-            <strong>Chicago, IL</strong>. We are deeply passionate about marriage and would love to see the health of 
+            Hitch & Sparrow is a wedding photography company based in <strong>Chicago, IL</strong> & 
+            <strong>Denver, CO</strong>. We are deeply passionate about marriage and would love to see the health of 
             your friendship favor the production of one single day. We are available <em>(and love!)</em> to travel 
             all over the world to create beautiful images to celebrate  alongside you at the beginning of your marriage.
           </p>
