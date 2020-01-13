@@ -28,6 +28,27 @@
 <div class="container-fluid main-content">
   <div class="container">
     <div class="row">
+      <div class="col-sm-12 text-center mb30">
+        <div id="wp-ratedWA">
+          <a 
+            href="https://www.weddingwire.com/biz/hitch-sparrow-wedding-photography-chicago/65f4d10c1068848e.html" 
+            title="WeddingWire Couples' Choice Award Winner 2020"
+          >
+            <img 
+              width="128" 
+              height="128" 
+              alt="Hitch & Sparrow Wedding Photography" 
+              id="wp-ratedWA-img-2020" 
+              src="https://cdn1.weddingwire.com/img/badges/2020/badge-weddingawards_en_US.png"
+            />
+          </a>
+        </div>
+        <!-- <script type="text/javascript" src="https://cdn1.weddingwire.com/_js/wp-rated.js?v=4"></script>
+        <script>wpShowRatedWAv3('473104','2020');</script> -->
+      </div>
+    </div>
+
+    <div class="row">
       <div class="col-sm-offset-2 col-sm-8 text-center mb30">
         <h1>
           We're a Denver and Chicago based wedding photography team who specialize in editorial and documentary 
