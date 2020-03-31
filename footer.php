@@ -125,5 +125,7 @@ $(window).load(function() {
   ga('create', 'UA-29479671-1', 'hitchandsparrow.com');
   ga('send', 'pageview');
 </script> -->
+
+<?php wp_footer(); ?>
 </body>
 </html>

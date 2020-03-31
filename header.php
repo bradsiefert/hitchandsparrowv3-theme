@@ -11,23 +11,9 @@ album, engagement photos, marriage, pictures, premium wedding photography" />
 
 <title>Hitch & Sparrow Wedding Photography Co.</title>
 
-<!-- Twitter Card data -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@hitchandsparrow">
-<meta name="twitter:title" content="Hitch & Sparrow Wedding Photography">
-<meta name="twitter:creator" content="@hitchandsparrow">
-<meta name="twitter:image" content="<?= get_theme_file_uri("images/sharing-tile.jpg") ?>">
-
-<!-- Facebook Share data -->
-<meta property="og:url"         content="http://www.hitchandsparrow.com/" />
-<meta property="og:type"        content="article" />
-<meta property="og:title"       content="Hitch & Sparrow Wedding Photography" />
-<meta property="og:description" content="Denver & Chicago based wedding photography company Hitch & Sparrow" />
-<meta property="og:image"       content="<?= get_theme_file_uri("images/sharing-tile.jpg") ?>" />
-
 <link href="<?= get_theme_file_uri("css/fontfaces.min.css") ?>" rel="stylesheet" type="text/css" media="screen" />
 <link href="<?= get_theme_file_uri("css/bootstrap.min.css") ?>" rel="stylesheet" type="text/css" media="screen" />
-<link href="<?= get_theme_file_uri("css/customize.css") ?>" rel="stylesheet" type="text/css" media="screen" />
+<link href="<?= get_theme_file_uri("css/customize.min.css") ?>" rel="stylesheet" type="text/css" media="screen" />
 
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
@@ -36,6 +22,8 @@ album, engagement photos, marriage, pictures, premium wedding photography" />
 5shiv.js"></script>
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
+
+<?php wp_head(); ?>
 </head>
 
 <body>
