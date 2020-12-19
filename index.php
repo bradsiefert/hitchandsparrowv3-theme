@@ -29,22 +29,34 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12 text-center mb30">
-        <div id="wp-ratedWA">
           <a 
             href="https://www.weddingwire.com/biz/hitch-sparrow-wedding-photography-chicago/65f4d10c1068848e.html" 
             title="WeddingWire Couples' Choice Award Winner 2020"
+            target="_new"
           >
             <img 
-              width="128" 
-              height="128" 
+              width="192" 
+              height="192" 
               alt="Hitch & Sparrow Wedding Photography" 
               id="wp-ratedWA-img-2020" 
               src="https://cdn1.weddingwire.com/img/badges/2020/badge-weddingawards_en_US.png"
+              class="mr5 mb10"
             />
           </a>
-        </div>
-        <!-- <script type="text/javascript" src="https://cdn1.weddingwire.com/_js/wp-rated.js?v=4"></script>
-        <script>wpShowRatedWAv3('473104','2020');</script> -->
+        <a 
+          href="https://modluxweddings.com/chicago/scene/modern-luxury-weddings-diamond-wedding-awards"
+          title="modern luxury 2020 award winner"
+          target="_new"
+        >
+          <img 
+            width="192" 
+            height="192" 
+            alt="modern luxury 2020 award winner badge" 
+            src="<?= get_theme_file_uri("images/badge-modern-luxury-2020-award-winner-badge.jpg") ?>"
+            class="ml5 mb10"
+          />
+        </a>
+          
       </div>
     </div>
 
