@@ -738,6 +738,11 @@ select.form-control {
 
 .blog-post-details ul {
   margin-bottom: 0;
+  padding-inline-start: 0;
+}
+
+.blog-post-details li {
+  list-style-type: none;
 }
 
 .archive-tile {
@@ -778,6 +783,8 @@ select.form-control {
 .blocks-gallery-grid {
   padding-inline-start: 0px;
 }
+
+
 
 /* ----------
 I inserted .wp-block-gallery in place of .blog-post-image-contain
