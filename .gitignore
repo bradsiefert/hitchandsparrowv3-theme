@@ -1,1 +1,8 @@
 *.codekit3
+/js/.DS_Store
+/page-templates/.DS_Store
+/css/.DS_Store
+/partials/.DS_Store
+/images/.DS_Store
+/.DS_Store
+/portfolio/.DS_Store
