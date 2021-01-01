@@ -823,7 +823,8 @@ figcaption {
 }
 
 .blog-post-image img, .blocks-gallery-item img {
-  height: 520px;
+  height: 520px !important;
+  width: auto !important;
   margin-right: 10px;
 }
 
